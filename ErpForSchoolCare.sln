@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErpForSchoolCare", "ErpForSchoolCare\ErpForSchoolCare.csproj", "{A49610D5-05CC-4FD2-A8ED-DA2E0CD37B63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolApis", "SchoolApis\SchoolApis.csproj", "{81015F65-BCD6-4C50-83D5-3993804BC802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A49610D5-05CC-4FD2-A8ED-DA2E0CD37B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49610D5-05CC-4FD2-A8ED-DA2E0CD37B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49610D5-05CC-4FD2-A8ED-DA2E0CD37B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49610D5-05CC-4FD2-A8ED-DA2E0CD37B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81015F65-BCD6-4C50-83D5-3993804BC802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81015F65-BCD6-4C50-83D5-3993804BC802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81015F65-BCD6-4C50-83D5-3993804BC802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81015F65-BCD6-4C50-83D5-3993804BC802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31C19090-B6AB-40DF-B7F1-F653CD520E0C}
+	EndGlobalSection
+EndGlobal

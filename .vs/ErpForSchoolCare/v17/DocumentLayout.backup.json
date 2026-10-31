@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\AMIT\\Projects\\ErpForSchoolCare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81015F65-BCD6-4C50-83D5-3993804BC802}|SchoolApis\\SchoolApis.csproj|g:\\amit\\projects\\erpforschoolcare\\schoolapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81015F65-BCD6-4C50-83D5-3993804BC802}|SchoolApis\\SchoolApis.csproj|solutionrelative:schoolapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49610D5-05CC-4FD2-A8ED-DA2E0CD37B63}|ErpForSchoolCare\\ErpForSchoolCare.csproj|g:\\amit\\projects\\erpforschoolcare\\erpforschoolcare\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49610D5-05CC-4FD2-A8ED-DA2E0CD37B63}|ErpForSchoolCare\\ErpForSchoolCare.csproj|solutionrelative:erpforschoolcare\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49610D5-05CC-4FD2-A8ED-DA2E0CD37B63}|ErpForSchoolCare\\ErpForSchoolCare.csproj|g:\\amit\\projects\\erpforschoolcare\\erpforschoolcare\\filter\\tokenprecheckfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49610D5-05CC-4FD2-A8ED-DA2E0CD37B63}|ErpForSchoolCare\\ErpForSchoolCare.csproj|solutionrelative:erpforschoolcare\\filter\\tokenprecheckfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49610D5-05CC-4FD2-A8ED-DA2E0CD37B63}|ErpForSchoolCare\\ErpForSchoolCare.csproj|g:\\amit\\projects\\erpforschoolcare\\erpforschoolcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49610D5-05CC-4FD2-A8ED-DA2E0CD37B63}|ErpForSchoolCare\\ErpForSchoolCare.csproj|solutionrelative:erpforschoolcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49610D5-05CC-4FD2-A8ED-DA2E0CD37B63}|ErpForSchoolCare\\ErpForSchoolCare.csproj|g:\\amit\\projects\\erpforschoolcare\\erpforschoolcare\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49610D5-05CC-4FD2-A8ED-DA2E0CD37B63}|ErpForSchoolCare\\ErpForSchoolCare.csproj|solutionrelative:erpforschoolcare\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49610D5-05CC-4FD2-A8ED-DA2E0CD37B63}|ErpForSchoolCare\\ErpForSchoolCare.csproj|g:\\amit\\projects\\erpforschoolcare\\erpforschoolcare\\filter\\unauthorizedredirectfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49610D5-05CC-4FD2-A8ED-DA2E0CD37B63}|ErpForSchoolCare\\ErpForSchoolCare.csproj|solutionrelative:erpforschoolcare\\filter\\unauthorizedredirectfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\AMIT\\Projects\\ErpForSchoolCare\\SchoolApis\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolApis\\appsettings.json",
+              "ToolTip": "G:\\AMIT\\Projects\\ErpForSchoolCare\\SchoolApis\\appsettings.json",
+              "RelativeToolTip": "SchoolApis\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-26T15:23:09.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnauthorizedRedirectFilter.cs",
+              "DocumentMoniker": "G:\\AMIT\\Projects\\ErpForSchoolCare\\ErpForSchoolCare\\Filter\\UnauthorizedRedirectFilter.cs",
+              "RelativeDocumentMoniker": "ErpForSchoolCare\\Filter\\UnauthorizedRedirectFilter.cs",
+              "ToolTip": "G:\\AMIT\\Projects\\ErpForSchoolCare\\ErpForSchoolCare\\Filter\\UnauthorizedRedirectFilter.cs",
+              "RelativeToolTip": "ErpForSchoolCare\\Filter\\UnauthorizedRedirectFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:04:12.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "G:\\AMIT\\Projects\\ErpForSchoolCare\\ErpForSchoolCare\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "ErpForSchoolCare\\Controllers\\DashBoardController.cs",
+              "ToolTip": "G:\\AMIT\\Projects\\ErpForSchoolCare\\ErpForSchoolCare\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "ErpForSchoolCare\\Controllers\\DashBoardController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:21:28.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\AMIT\\Projects\\ErpForSchoolCare\\ErpForSchoolCare\\Program.cs",
+              "RelativeDocumentMoniker": "ErpForSchoolCare\\Program.cs",
+              "ToolTip": "G:\\AMIT\\Projects\\ErpForSchoolCare\\ErpForSchoolCare\\Program.cs",
+              "RelativeToolTip": "ErpForSchoolCare\\Program.cs",
+              "ViewState": "AgIAABUAAACAZmZmZmYkwCYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:12:37.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "G:\\AMIT\\Projects\\ErpForSchoolCare\\ErpForSchoolCare\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "ErpForSchoolCare\\Controllers\\MenuController.cs",
+              "ToolTip": "G:\\AMIT\\Projects\\ErpForSchoolCare\\ErpForSchoolCare\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "ErpForSchoolCare\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAsAAABgZmZmZmYowBcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:24:15.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenPreCheckFilter.cs",
+              "DocumentMoniker": "G:\\AMIT\\Projects\\ErpForSchoolCare\\ErpForSchoolCare\\Filter\\TokenPreCheckFilter.cs",
+              "RelativeDocumentMoniker": "ErpForSchoolCare\\Filter\\TokenPreCheckFilter.cs",
+              "ToolTip": "G:\\AMIT\\Projects\\ErpForSchoolCare\\ErpForSchoolCare\\Filter\\TokenPreCheckFilter.cs",
+              "RelativeToolTip": "ErpForSchoolCare\\Filter\\TokenPreCheckFilter.cs",
+              "ViewState": "AgIAAAcAAAD4//////8rwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:07:40.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

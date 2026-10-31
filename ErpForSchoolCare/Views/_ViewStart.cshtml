@@ -1,0 +1,13 @@
+﻿@{
+    var controller = ViewContext.RouteData.Values["controller"]?.ToString();
+    var action = ViewContext.RouteData.Values["action"]?.ToString();
+
+    if (controller == "Account" && (action == "Login" || action == "Register"))
+    {
+        Layout = "_LoginLayout";   // No header/footer
+    }
+    else
+    {
+        Layout = "_Layout";       // Main layout
+    }
+}

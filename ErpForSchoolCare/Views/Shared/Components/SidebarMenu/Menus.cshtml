@@ -1,0 +1,11 @@
+﻿@model List<MenuDto>
+
+@foreach (var menu in Model)
+{
+	<li class="nav-item">
+		<a class="nav-link text-white" href="@menu.Url">
+			<i class="@menu.Icon"></i>
+			<span>@menu.Title</span>
+		</a>
+	</li>
+}

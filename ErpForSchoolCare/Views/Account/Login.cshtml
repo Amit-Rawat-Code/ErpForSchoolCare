@@ -1,0 +1,28 @@
+﻿@model ErpForSchoolCare.Models.User
+@{
+	if (ViewData["Message"] != null)
+	{
+		<div class="alert alert-warning alert-dismissible fade show" role="alert">
+			<strong>Status!</strong> @ViewData["Message"]
+			<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+		</div>
+	}
+}
+<h4 class="text-center mb-4">Login</h4>
+
+<form asp-action="Login">
+	<div class="mb-3">
+		<label class="form-label">User Name</label>
+		<input type="text" class="form-control" asp-for="UserName" placeholder="Enter User Name">
+	</div>
+
+	<div class="mb-3">
+		<label class="form-label">Password</label>
+		<input type="password" class="form-control" asp-for="Password" placeholder="Enter Password">
+	</div>
+
+	<div class="mb-3">
+		<input type="submit" value="Login" class="btn btn-primary w-100" />
+		<a asp-action="Register">SignUp</a>
+	</div>
+</form>
